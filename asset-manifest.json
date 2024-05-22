@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Swio/static/css/main.bb4b653b.css",
+    "main.js": "/Swio/static/js/main.e62dc410.js",
+    "static/js/453.ed3810f9.chunk.js": "/Swio/static/js/453.ed3810f9.chunk.js",
+    "static/media/img.png": "/Swio/static/media/img.dc7a63d67b650fb82e46.png",
+    "static/media/img4.png": "/Swio/static/media/img4.4e852d0703bba594f631.png",
+    "static/media/img3.png": "/Swio/static/media/img3.ef5816d2112d7b4200d8.png",
+    "static/media/img2.png": "/Swio/static/media/img2.b160d6aa3c49407ba9d3.png",
+    "static/media/img1.png": "/Swio/static/media/img1.697660064e6d9e83a1bf.png",
+    "index.html": "/Swio/index.html",
+    "main.bb4b653b.css.map": "/Swio/static/css/main.bb4b653b.css.map",
+    "main.e62dc410.js.map": "/Swio/static/js/main.e62dc410.js.map",
+    "453.ed3810f9.chunk.js.map": "/Swio/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb4b653b.css",
+    "static/js/main.e62dc410.js"
+  ]
+}
