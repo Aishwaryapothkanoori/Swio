@@ -1,23 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+
+import Page1 from './section1/Page1';
+import Grid from './section2/Grid';
+import Grid2 from './section3/Grid2';
+import Grid3 from './section4/Grid3';
+// import { Routes, Route } from 'react-router-dom';
+// import Transaction from './payment/Transaction';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div >
+        <div >
+      <Page1/><br></br>
+      <Grid/>
+      <Grid2/>
+      <Grid3/>
+      
+    </div>
     </div>
   );
 }
